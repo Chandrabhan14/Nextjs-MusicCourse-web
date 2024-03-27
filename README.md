@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Music Course Website using Next.js
+
+This repository contains the source code for a Music Course website built using Next.js. The website is designed to provide information about the music course, its curriculum, instructors, and other relevant details.
+
 
 ## Getting Started
 
