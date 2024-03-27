@@ -2,6 +2,15 @@
 
 This repository contains the source code for a Music Course website built using Next.js. The website is designed to provide information about the music course, its curriculum, instructors, and other relevant details.
 
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/music-course-nextjs.git
+
 
 ## Getting Started
 
