@@ -37,6 +37,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 - **Next.js:** Utilized for building a fast and efficient React-based web application.
 - **React:** Used for building user interfaces.
+- **Typescript:** Used for provide static typing, improved code quality, and better developer tooling, enhancing the overall development experience.
 - **Tailwind CSS:** Employed for styling the website with a utility-first approach.
 - **API Routes:** Leveraged Next.js API routes for handling server-side logic and database operations.
 
