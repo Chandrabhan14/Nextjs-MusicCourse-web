@@ -32,6 +32,14 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+
+## Technologies Used
+
+- **Next.js:** Utilized for building a fast and efficient React-based web application.
+- **React:** Used for building user interfaces.
+- **Tailwind CSS:** Employed for styling the website with a utility-first approach.
+- **API Routes:** Leveraged Next.js API routes for handling server-side logic and database operations.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
