@@ -32,6 +32,12 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Features
+
+- **Interactive Lessons**: Engaging modules covering various aspects of music theory.
+- **Multimedia Content**: Integration of audio and video elements for enhanced learning.
+- **Responsive Design**: Ensures seamless access across devices.
+
 
 ## Technologies Used
 
