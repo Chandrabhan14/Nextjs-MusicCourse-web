@@ -99,7 +99,17 @@
         "instructor": "Ethan Moore",
         "isFeatured": true,
         "image": "/courses/blues.jpg"
-      }
+      },
+        {
+            "id": 11,
+            "title": "white voilen techniques",
+            "slug": "white-voilen-techniques",
+            "description": "Explore the techniques of violen",
+            "price": 150,
+            "instructor": "Ed Sher",
+            "isFeatured": true,
+            
+        }
     ]
   }
   
